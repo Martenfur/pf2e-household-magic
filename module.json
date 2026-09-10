@@ -1,12 +1,12 @@
 {
   "id": "household-magic",
   "title": "Household Magic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
   },
-  "description": "<p>This module adds a new bonus feat for all magic users that allows them to perform simple feats of magic. This feat allows to cast the following cantrips for free and without affecting the cantrip limit:</p><ul><li><p>Prestidigitation</p></li><li><p>Approximate</p></li><li><p>Illuminate</p></li><li><p>Sigil</p></li><li><p>Illuminate</p></li><li><p>Time Sense</p></li><li><p>Glamorize</p></li></ul><p><br>Household Magic feat also includes a new Basic Illusion cantrip which, as the name suggests, allows to create basic illusions.</p><p></p><p>This feat aims to give rarely used/weaker cantrips more usage and make roleplaying more fun without affecting balance.</p><p></p><p></p>",
+  "description": "<p>This module adds a new bonus feat for all magic users that allows them to perform simple feats of magic. This feat allows to cast the most basic and weaker cantrips for free and without affecting the cantrip limit.</p><p><br>Household Magic feat also includes a new Simple Illusion cantrip which, as the name suggests, allows to create basic illusions.</p><p></p><p>This feat aims to give rarely used/weaker cantrips more usage and make roleplaying more fun without affecting balance.</p><p></p><p></p>",
   "flags": {
     "canUpload": true
   },
@@ -25,5 +25,5 @@
     }
   ],
   "manifest": "https://github.com/Martenfur/pf2e-household-magic/releases/latest/download/module.json",
-  "download": "https://github.com/Martenfur/pf2e-household-magic/releases/download/v1.0.0/household-magic-v1.0.0.zip"
+  "download": "https://github.com/Martenfur/pf2e-household-magic/releases/download/v1.1.0/household-magic-v1.1.0.zip"
 }

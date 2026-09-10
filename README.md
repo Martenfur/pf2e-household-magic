@@ -11,6 +11,9 @@ Household Magic is a free bonus feat that all magic users can take. This feat al
 - Sigil
 - Time Sense
 - Glamorize
+- Draw Moisture
+- Artistic Recollection
+- Create Earthen Facsimile
 - Simple Illusion
 
 Household Magic also includes a new *Simple Illusion* cantrip which, as the name suggests, allows to create basic illusions.
