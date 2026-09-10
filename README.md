@@ -38,3 +38,7 @@ Tested on Foundry 14, but should work with future and probably past releases too
 ## Contributing
 
 If you find any other instances of forced pronouns or other weird stuff, feel free to create an issue.
+
+## Other Foundry Modules
+
+- [Remove Pronouns](https://github.com/Martenfur/foundry-vtt-remove-pronouns)
